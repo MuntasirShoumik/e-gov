@@ -1,0 +1,98 @@
+.nav-container{
+    position: fixed;
+    width: 100%;
+}
+
+.head{
+   padding: 5px;
+   background-color: rgb(225, 225, 225);
+   
+   
+ }
+ .navbar{
+     background-color: orange;
+     text-align: center;
+     padding: 20px 0;
+     
+     width: 100%;
+     padding: 14px;
+     box-shadow: 0px 1px 7px 0px #888888;
+     
+ }
+ 
+ .nav-items li{
+     display: inline; 
+     list-style: none;
+     margin: 1.5%;
+     
+     
+ }
+ .nav-items li a{
+    width: 100px;   
+    padding: 15px 15px;
+    text-decoration: none;
+    font-family: Arial;
+    color: white;
+    list-style: none;
+    text-align: center;
+ }
+
+ .nav-items li a:hover{
+    background: rgb(95, 238, 95);
+    text-transform: uppercase;
+}
+
+table{
+   display: flexbox;
+   width: 55.5%;
+   height: 40%;
+   border: 1px;
+   border-radius: 05px;
+   padding: 8px 15px 8px 15px;
+   background-color: rgb(163, 195, 159);
+   margin: 10px 0px 15px 0px;
+   box-shadow: 1px 1px 2px 1px gray;
+   margin-left: 20%;
+   text-align: center;
+}
+
+h3{
+    text-align: center;
+    width: 100%;
+    color: rgb(86, 3, 3);
+}
+
+.tran{
+    margin-top: 150px;
+}
+
+#txtbox{
+    width: 53.2%;
+    height: 6%;
+    margin-left: 250px;
+    padding: 8px 15px 8px 15px;
+    position: relative;
+    border-radius: 07px;
+    text-size-adjust: auto;
+    background-color: rgb(203, 203, 203);
+    color: white;
+    text-align: center;
+}
+
+#delete{
+    width: 56%;
+    height: 40px;
+    margin-left: 250px;
+    position: relative;
+    border-radius: 07px;
+    margin-bottom: 1500px;
+    text-size-adjust: auto;
+    background-color: rgb(132, 3, 3);
+    color: white;
+}
+
+#search{
+    width: 55.2%;
+    height: 6%;
+    text-align: center;
+}

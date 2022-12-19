@@ -1,0 +1,130 @@
+
+.nav-container{
+    position: fixed;
+    width: 100%;
+}
+
+.head{
+   padding: 5px;
+   background-color: rgb(225, 225, 225);
+   
+   
+ }
+ .navbar{
+     background-color: orange;
+     text-align: center;
+     padding: 20px 0;
+     
+     width: 100%;
+     padding: 14px;
+     box-shadow: 0px 1px 7px 0px #888888;
+     
+ }
+ 
+ .nav-items li{
+     display: inline; 
+     list-style: none;
+     margin: 1.5%;
+     
+     
+ }
+ .nav-items li a{
+    width: 100px;   
+    padding: 15px 15px;
+    text-decoration: none;
+    font-family: Arial;
+    color: white;
+    list-style: none;
+    text-align: center;
+ }
+
+ .nav-items li a:hover{
+    background: rgb(95, 238, 95);
+    text-transform: uppercase;
+ }
+
+.login_table{
+    background-color: rgba(70, 69, 69, 0.509);
+   margin-top: 10px;
+   margin-left: 450px;
+}
+
+.heading{
+   background-color: aquamarine;
+   margin-top: 150px;
+   bottom: 140px;
+   margin: 1px;
+   height: 50px;
+   border-left: 10px solid rgb(105, 1, 1);
+   border-right: 10px solid rgb(105, 1, 1);
+   text-align: center;
+}
+
+#submit_page{
+    border-radius: 30px;
+    border: 1px solid;
+    width: 70%;
+    height: 20px;
+    background-color: green;
+    color: whitesmoke;
+ }
+
+ #submit_delete{
+    border-radius: 30px;
+    border: 1px solid;
+    width: 80%;
+    height: 25px;
+    background-color: green;
+    color: whitesmoke;
+ }
+
+ .middle{
+    text-align: center;
+    background-color: rgb(219, 255, 127);
+ }
+ h1{
+    text-align: center;
+    width: 100%;
+    color: rgb(3, 126, 38);
+}
+
+h2{
+    text-align: center;
+    width: 100%;
+    color: rgb(86, 3, 3);
+}
+h3{
+    text-align: center;
+    width: 100%;
+    color: rgb(1, 56, 17);
+}
+p{
+    text-align: center;
+    width: 100%;
+    color: rgb(0, 0, 0);
+}
+.icon{
+    background-color: rgb(122, 122, 122);
+}
+.contactInfor{
+    margin-top: 150px;
+}
+
+.hight-box{
+    height: 150px;
+}
+
+.showtax{
+   display: flexbox;
+   font-size: xx-large;
+   width: 40%;
+   height: 5%;
+   border: 1px;
+   border-radius: 05px;
+   padding: 8px 15px 8px 15px;
+   background-color: bisque;
+   margin: 10px 0px 15px 0px;
+   box-shadow: 1px 1px 2px 1px gray;
+   margin-top: 30px;
+   margin-left: 370px;
+}

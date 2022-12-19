@@ -1,0 +1,19 @@
+[
+    {
+        "name": "muntasir",
+        "father": "rahman",
+        "mother": "bithy",
+        "birthday": "2022-11-14",
+        "NID": "1111111111",
+        "gender": "male",
+        "email": "shomikrahman.sr@gmail.com",
+        "mobile": "01917479587",
+        "division": "Chattogram",
+        "city": "Brahmanbaria",
+        "address": "hgff",
+        "password": "11111Aa@",
+        "get_notification": true,
+        "image": "C:\\xampp\\tmp\\phpC63F.tmp",
+        "pdf": "C:\\xampp\\tmp\\phpC640.tmp"
+    }
+]
